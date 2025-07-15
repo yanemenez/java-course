@@ -22,7 +22,7 @@ public class Program {
         product.quantity = sc.nextInt();
 
         System.out.println();
-        System.out.print("Product data: " + product.toString());
+        System.out.print("Product data: " + product);
 
         System.out.println();
         System.out.print("Enter the number of products to be added in stock:  ");
