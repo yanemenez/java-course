@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/introduction-to-oop-3/-.iml" filepath="$PROJECT_DIR$/introduction-to-oop-3/-.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction-to-oop/introduction-to-oop.iml" filepath="$PROJECT_DIR$/introduction-to-oop/introduction-to-oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction-to-oop-2/introduction-to-oop-2.iml" filepath="$PROJECT_DIR$/introduction-to-oop-2/introduction-to-oop-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/introduction-to-oop-3/introduction-to-oop-3.iml" filepath="$PROJECT_DIR$/introduction-to-oop-3/introduction-to-oop-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-course.iml" filepath="$PROJECT_DIR$/.idea/java-course.iml" />
     </modules>
   </component>
