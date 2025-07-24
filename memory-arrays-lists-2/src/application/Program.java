@@ -53,6 +53,6 @@ public class Program {
         double percent = (countUnder16 * 100.0) / n;
         System.out.printf("PERCENTAGE OF PEOPLE UNDER 16: %.1f%%%n", percent);
 
-
+        sc.close();
     }
 }
