@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/introduction-to-oop-4/introduction-to-oop-4.iml" filepath="$PROJECT_DIR$/introduction-to-oop-4/introduction-to-oop-4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-course.iml" filepath="$PROJECT_DIR$/.idea/java-course.iml" />
       <module fileurl="file://$PROJECT_DIR$/memory-arrays-lists/memory-arrays-lists.iml" filepath="$PROJECT_DIR$/memory-arrays-lists/memory-arrays-lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memory-arrays-lists-2/memory-arrays-lists-2.iml" filepath="$PROJECT_DIR$/memory-arrays-lists-2/memory-arrays-lists-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-constructors-overloading-encapsulation/oop-constructors-overloading-encapsulation.iml" filepath="$PROJECT_DIR$/oop-constructors-overloading-encapsulation/oop-constructors-overloading-encapsulation.iml" />
     </modules>
   </component>
