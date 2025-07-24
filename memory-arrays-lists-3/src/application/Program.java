@@ -36,5 +36,7 @@ public class Program {
                 System.out.println(i + ": " + vect[i]);
             }
         }
+        
+        sc.close();
     }
 }
