@@ -27,7 +27,6 @@ public class Program {
             int roomNumber = sc.nextInt();
 
             vect[roomNumber] = new Rent(name, email);
-
         }
 
         System.out.println();
