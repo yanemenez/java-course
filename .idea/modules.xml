@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/introduction-to-oop-3/-.iml" filepath="$PROJECT_DIR$/introduction-to-oop-3/-.iml" />
       <module fileurl="file://$PROJECT_DIR$/enumerations-composition/enumerations-composition.iml" filepath="$PROJECT_DIR$/enumerations-composition/enumerations-composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumerations-composition-2/enumerations-composition-2.iml" filepath="$PROJECT_DIR$/enumerations-composition-2/enumerations-composition-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction-to-oop/introduction-to-oop.iml" filepath="$PROJECT_DIR$/introduction-to-oop/introduction-to-oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction-to-oop-2/introduction-to-oop-2.iml" filepath="$PROJECT_DIR$/introduction-to-oop-2/introduction-to-oop-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction-to-oop-3/introduction-to-oop-3.iml" filepath="$PROJECT_DIR$/introduction-to-oop-3/introduction-to-oop-3.iml" />
